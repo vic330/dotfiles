@@ -50,4 +50,4 @@
 [pull]
   rebase = false
 [user]
-	email = victor@alven.co
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
